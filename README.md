@@ -41,13 +41,18 @@ Won a hackathon organized by Bharatpur Metropolitan City with **[Chitwan Care](h
 
 ## Technology stack
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,python,rust,java,flutter,dart,postgres,docker,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,python,rust,java,flutter,dart,postgres,docker,git&theme=light" />
-  <img alt="TypeScript, React, Python, Rust, Java, Flutter, Dart, PostgreSQL, Docker and Git" src="https://skillicons.dev/icons?i=ts,react,python,rust,java,flutter,dart,postgres,docker,git&theme=light" />
-</picture>
-</div>
+Technology I use in projects, experiments, and coursework:
+
+| Area | Languages, frameworks, and tools |
+| :--- | :--- |
+| **Programming languages** | `Java` · `Python` · `Rust` · `C` · `C++` · `JavaScript` · `TypeScript` · `Dart` · `SQL` |
+| **Frontend & UI** | `React` · `HTML5` · `CSS3` · `Vite` · `GSAP` · `JavaFX` · `Swing` |
+| **Mobile development** | `Flutter` · `Android` · `Kotlin` |
+| **Backend & databases** | `Spring Boot` · `REST APIs` · `JWT` · `JDBC` · `PostgreSQL` · `SQLite` |
+| **Security & systems** | `Cedar policies` · `Wasmtime` · `Offline-first design` · `Encrypted data handling` |
+| **Development tools** | `Git` · `GitHub` · `GitHub Actions` · `Docker` · `Linux` |
+
+**Exploring further:** machine learning, cybersecurity, cloud infrastructure, and satellite-data analysis.
 
 ## Contribution activity
 
