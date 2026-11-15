@@ -29,10 +29,15 @@ I am a Computer Engineering student in Nepal interested in **offline-first appli
 | **[Sentinel AI](https://github.com/Prabin-Poudel-1/sentinel-si)** | Experimental policy enforcement for AI-agent actions, with approvals and audit trails. | Rust · Cedar · Python |
 | **[Rescuer Sathi](https://github.com/Prabin-Poudel-1/rescuer-sathi)** | Offline SOS persistence, encrypted nearby relay, and verified responder workflows. | Flutter · Spring Boot · PostgreSQL |
 | **[Rakshak](https://github.com/Prabin-Poudel-1/rakshak)** | Privacy-aware emergency assistance and store-and-forward rescue coordination. | Flutter · Android · Java |
-| **[Chitwan Care](https://github.com/Prabin-Poudel-1/waste-detection)** | On-device waste detection with geolocated reports and cleanup coordination. | Flutter · LiteRT · Spring Boot |
+| **[Chitwan Care](https://github.com/Prabin-Poudel-1/waste-detection)** | **Hackathon-winning project** at an event organized by Bharatpur Metropolitan City. On-device waste detection, geolocated reports, and cleanup coordination. | Flutter · LiteRT · Spring Boot |
 | **[Interactive portfolio](https://github.com/Prabin-Poudel-1/Portfolio-website)** | Responsive project gallery, visual experiments, sound, and engineering case studies. | React · TypeScript · GSAP |
 
 <sub>These are engineering prototypes and research implementations; they are not certified emergency services, validated scientific decision systems, or guaranteed production security solutions.</sub>
+
+## Achievement
+
+**Hackathon Winner — Bharatpur Metropolitan City**  
+Won a hackathon organized by Bharatpur Metropolitan City with **[Chitwan Care](https://github.com/Prabin-Poudel-1/waste-detection)**, a project for AI-assisted waste reporting and cleanup coordination.
 
 ## Technology stack
 
