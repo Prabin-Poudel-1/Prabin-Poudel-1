@@ -41,17 +41,29 @@ Won a hackathon organized by Bharatpur Metropolitan City with **[Chitwan Care](h
 
 ## Technology stack
 
-Technology I use in projects, experiments, and coursework:
+### Languages
 
-| Area | Languages, frameworks, and tools |
-| :--- | :--- |
-| **Programming languages** | `Java` · `Python` · `Rust` · `C` · `C++` · `JavaScript` · `TypeScript` · `Dart` · `SQL` |
-| **Frontend & UI** | `React` · `HTML5` · `CSS3` · `Vite` · `GSAP` · `JavaFX` · `Swing` |
-| **Mobile development** | `Flutter` · `Android` · `Kotlin` |
-| **Backend & databases** | `Spring Boot` · `REST APIs` · `JWT` · `JDBC` · `PostgreSQL` · `SQLite` |
-| **Security & systems** | `Cedar policies` · `Wasmtime` · `Offline-first design` · `Encrypted data handling` |
-| **Development tools** | `Git` · `GitHub` · `GitHub Actions` · `Docker` · `Linux` |
+![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-242424?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Frontend & UI
+
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-168A2E?style=for-the-badge&logo=gsap&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-437291?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-374151?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Mobile development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=000000) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & databases
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-4F46E5?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-437291?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Security & systems
+
+![Cedar policies](https://img.shields.io/badge/Cedar_policies-475569?style=for-the-badge&logo=amazonaws&logoColor=white) ![Wasmtime](https://img.shields.io/badge/Wasmtime-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) ![Offline-first design](https://img.shields.io/badge/Offline--first_design-0F766E?style=for-the-badge&logo=android&logoColor=white) ![Encrypted data handling](https://img.shields.io/badge/Encrypted_data_handling-115E59?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### Development tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-F3C316?style=for-the-badge&logo=linux&logoColor=000000)
 **Exploring further:** machine learning, cybersecurity, cloud infrastructure, and satellite-data analysis.
 
 ## Contribution activity
