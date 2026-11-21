@@ -27,6 +27,7 @@ I am a Computer Engineering student in Nepal interested in **offline-first appli
 | Project | Focus | Technologies |
 | :--- | :--- | :--- |
 | **[Sentinel AI](https://github.com/Prabin-Poudel-1/sentinel-si)** | Experimental policy enforcement for AI-agent actions, with approvals and audit trails. | Rust · Cedar · Python |
+| **[GhostCursor](https://github.com/Prabin-Poudel-1/ghost-curser)** | Privacy-focused browser extension for shared live cursors, click ripples, temporary laser drawings, and synchronized sticky notes over peer-to-peer connections. | TypeScript · WebRTC · Manifest V3 |
 | **[Rescuer Sathi](https://github.com/Prabin-Poudel-1/rescuer-sathi)** | Offline SOS persistence, encrypted nearby relay, and verified responder workflows. | Flutter · Spring Boot · PostgreSQL |
 | **[Rakshak](https://github.com/Prabin-Poudel-1/rakshak)** | Privacy-aware emergency assistance and store-and-forward rescue coordination. | Flutter · Android · Java |
 | **[Chitwan Care](https://github.com/Prabin-Poudel-1/waste-detection)** | **Hackathon-winning project** at an event organized by Bharatpur Metropolitan City. On-device waste detection, geolocated reports, and cleanup coordination. | Flutter · LiteRT · Spring Boot |
